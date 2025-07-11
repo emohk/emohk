@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ehsan Mohamed</h1>
-<h3 align="center">I am a Computer Science Student 👨‍🎓</h3>
+<h1>Hi 👋, I'm Ehsan Mohamed</h1>
+<h3>B.Tech CSE | IIT Delhi - Abu Dhabi 👨‍🎓</h3>
 
-- 👨‍💻 I’m contributing to **open source projects**
+- 👨‍💻 Building things (and figuring it out as I go)
 
-- 🌱 I’m currently learning **Django, DSA**
+- 🌱 Learning to code, one bug at a time
 
-- 📫 How to reach me **ehsankodi@gmail.com**
+- 📫 Reach me: **ehsankodi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
